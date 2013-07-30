@@ -1,3 +1,3 @@
 s="Hello World"
 
-print(s.lower()[::-1])
+print(s[::-1])
