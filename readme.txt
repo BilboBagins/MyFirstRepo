@@ -1,3 +1,3 @@
 Hello World!!!
-Bohdan Fedys
+Bohdan M Fedys
 (c) 2013
